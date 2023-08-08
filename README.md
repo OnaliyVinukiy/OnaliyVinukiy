@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README.png)
+
 <h1 align="center">Hi 👋, I'm Onaliy Vinukiy</h1>
 <h3 align="center">I am a passionate Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
