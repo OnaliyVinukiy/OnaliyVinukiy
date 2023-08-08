@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README.png)
+![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Onaliy Vinukiy</h1>
 <h3 align="center">I am a passionate Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
