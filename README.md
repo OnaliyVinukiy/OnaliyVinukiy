@@ -38,3 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaliyvinukiy&theme=radical" alt="onaliyvinukiy" /></p>
 
+[![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
+
