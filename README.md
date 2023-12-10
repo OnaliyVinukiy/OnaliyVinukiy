@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en" alt="onaliyvinukiy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaliyvinukiy&theme=radical" alt="onaliyvinukiy" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=radical" alt="GitHub Streak" /></a>
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
