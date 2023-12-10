@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en" alt="onaliyvinukiy" /></p>
+![OnaliyVinukiy's Stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=radical" alt="GitHub Streak" /></a>
 
