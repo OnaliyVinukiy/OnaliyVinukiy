@@ -36,7 +36,7 @@
 
 ![OnaliyVinukiy's Stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=radical" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=radical" alt="GitHub Streak" /></a>
 
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
