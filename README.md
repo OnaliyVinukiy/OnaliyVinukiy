@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&show_icons=true&theme=radical)
+![Onaliy's GitHub stats](https://github-readme-stats-chi-topaz.vercel.app/api?username=OnaliyVinukiy&show_icons=true&theme=highcontrast)
 
 <img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast" alt="GitHub Streak" /></a>
 
