@@ -1,0 +1,22 @@
+name: push-to-branch
+
+on:
+  # Manually run the job at any time
+  workflow_dispatch:
+
+jobs:
+  push-to-branch:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Run crazy-max/ghaction-github-pages action to push SVG to a branch
+      - name: Push SVG to branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
