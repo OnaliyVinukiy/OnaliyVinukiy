@@ -37,7 +37,7 @@
 ![Onaliy's GitHub stats](https://github-readme-stats-chi-topaz.vercel.app/api?username=OnaliyVinukiy&show_icons=true&count_private=true&theme=highcontrast)
 
 <img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast" alt="GitHub Streak" /></a>
-![snake gif](https://github.com/geethdev/geethdev/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
