@@ -35,7 +35,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
   
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
