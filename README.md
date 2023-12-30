@@ -36,6 +36,6 @@
 
 <img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
