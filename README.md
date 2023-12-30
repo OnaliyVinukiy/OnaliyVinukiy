@@ -31,11 +31,11 @@
 
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true)
 
+![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
 
-
-<a href="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" />
+<a href="https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height=200 align="center" src="https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" />
