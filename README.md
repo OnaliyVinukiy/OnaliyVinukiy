@@ -37,7 +37,7 @@
 <img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
