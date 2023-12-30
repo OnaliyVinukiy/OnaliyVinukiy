@@ -36,6 +36,12 @@
 
 <img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
+<a href="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
