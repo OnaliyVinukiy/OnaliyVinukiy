@@ -31,7 +31,7 @@
 
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&langs_count=8&layout=compact&theme=highcontrast&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![Onaliy's GitHub stats](https://github-readme-stats-chi-topaz.vercel.app/api?username=OnaliyVinukiy&show_icons=true&count_private=true&theme=highcontrast&include_all_commits=true)
 
 <img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast" alt="GitHub Streak" /></a>
