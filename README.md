@@ -32,9 +32,9 @@
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Onaliy's GitHub stats](https://github-readme-stats-chi-topaz.vercel.app/api?username=OnaliyVinukiy&show_icons=true&count_private=true&theme=highcontrast&include_all_commits=true)
 
-<img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast" alt="GitHub Streak" /></a>
+
+<img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
