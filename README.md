@@ -54,7 +54,7 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div><br/>
 
-![Top Langs](https://https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&langs_count=8)
+![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&langs_count=8)
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
