@@ -55,7 +55,7 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=tokyonight&hide=c#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=tokyonight&hide=css)
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
 
