@@ -53,7 +53,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div>
-
+<br>
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
