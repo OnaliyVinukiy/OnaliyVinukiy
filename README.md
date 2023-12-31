@@ -29,7 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+ 
 </p>
 
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&hide_border=true&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true)
