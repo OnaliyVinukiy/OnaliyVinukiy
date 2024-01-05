@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Onaliy Vinukiy</h1>
+<h1 align="center">Hi 👋, I'm Onaliy Vinukiy Jayawardana</h1>
 <h3 align="center">I am a passionate Full Stack Developer, UI/UX Designer and a Beta Microsoft Learn Student Ambassador, with a knack for exploring the world of technology.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaliyvinukiy&label=Profile%20views&color=0e75b6&style=flat" alt="onaliyvinukiy" /> </p>
