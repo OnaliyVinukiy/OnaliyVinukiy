@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **MEARN and Internet of Things**
+- 🌱 I’m currently learning **MEARN and IoT**
 
 - 📝 I regularly write articles on [https://medium.com/@avioniks](https://medium.com/@avioniks)
 
