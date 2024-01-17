@@ -58,7 +58,8 @@
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=6&hide_border=true&count_private=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Onaliy's Stats">
 
 ![](https://github-readme-stats-chi-topaz.vercel.app/?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
   
