@@ -61,7 +61,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=6&hide_border=true&count_private=true" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Onaliy's Stats">
 
-![](https://github-readme-stats-chi-topaz.vercel.app/?username=OnaliyVinukiy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
   
 ![Top Langs](https://github-readme-stats-chi-topaz.vercel.app/api/top-langs/?username=OnaliyVinukiy&langs_count=6&layout=compact&theme=highcontrast&hide_border=true&count_private=true)
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
