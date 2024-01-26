@@ -63,7 +63,7 @@
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
