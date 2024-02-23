@@ -57,7 +57,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=16&hide_border=true&count_private=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Onaliy's Stats">
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
