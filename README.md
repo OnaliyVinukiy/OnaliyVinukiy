@@ -62,7 +62,7 @@
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
