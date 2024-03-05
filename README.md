@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **UI/UX Designing and Full Stack Development**
 
-- 📫 How to reach me **onaliy21@gmail.com** or
+- 📫 How to reach me **onaliy21@gmail.com** or **onaliylink@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1hO0lca4Z0OXdMvLG7mzsfCzF-Das63jd?usp=sharing](https://drive.google.com/drive/folders/1hO0lca4Z0OXdMvLG7mzsfCzF-Das63jd?usp=sharing)
 
