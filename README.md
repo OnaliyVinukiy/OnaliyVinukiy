@@ -51,7 +51,10 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
-</div><br/>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/137159347-1201210f-1e88-4b8d-a540-305d2f118d39.png" alt="Flutter" title="Flutter"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/137159351-c36e1b47-789a-4d4f-9ac2-6bc2ee45a06a.png" alt="Dart" title="Dart"/></code>
+</div>
+<br/>
 
 
 
