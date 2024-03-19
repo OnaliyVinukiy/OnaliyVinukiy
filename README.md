@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **MEARN & Mobile Application Development**
+- 🌱 I’m currently learning **MEARN, IoT & Mobile Application Development**
 
 - 📝 I regularly write articles on [https://medium.com/@avioniks](https://medium.com/@avioniks)
 
