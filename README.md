@@ -63,7 +63,7 @@
 
 ![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true" alt="Onaliy's Stats">
-
+![OnaliyVinukiy's Stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 [![An image of @onaliy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onaliy)](https://holopin.io/@onaliy)
 
