@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README%20(1).png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Onaliy+Vinukiy+Jayawardana" alt="Typing SVG" /></a>
-<h3 align="center">I am a passionate Full Stack Developer, UI/UX Designer, Content Writer and a Beta Microsoft Learn Student Ambassador, with a knack for exploring the world of technology.</h3>
+<h3 align="center">Full Stack Developer | UI/UX Designer | Content Writer | Beta Microsoft Learn Student Ambassador</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VvNmdkNDhrcnZrMzRmdHh2MWUyMnlxeXl2YTBuY3BhMmJ3eHlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaliyvinukiy&label=Profile%20views&color=0e75b6&style=flat" alt="onaliyvinukiy" /> </p>
 
