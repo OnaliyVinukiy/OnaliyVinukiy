@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README%20(1).png)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Onaliy+Vinukiy+Jayawardana" alt="Typing SVG" /></a>
 <h3 align="center">Full Stack Developer | UI/UX Design |  Beta Microsoft Learn Student Ambassador | FOSS Volunteer</h3>
 <br/>
