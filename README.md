@@ -54,12 +54,11 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div>
 <br/>
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-<br/>
-
-
-
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 
