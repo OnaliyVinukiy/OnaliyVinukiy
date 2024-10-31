@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MEARN & Artificial Intelligence**
 
-- 📝 I regularly write articles on [https://medium.com/@avioniks](https://medium.com/@avioniks)
+- 📝 I regularly write articles on [https://medium.com/@onaliy](https://medium.com/@onaliy)
 
 - 💬 Ask me about **UI/UX Designing and Full Stack Development**
 
