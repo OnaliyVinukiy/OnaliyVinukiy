@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **UI/UX Designing and Full Stack Development**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1hO0lca4Z0OXdMvLG7mzsfCzF-Das63jd?usp=sharing](https://drive.google.com/drive/folders/1hO0lca4Z0OXdMvLG7mzsfCzF-Das63jd?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Oz0CwS1bybIuhvjBfS2y0lzUflH0oImC/view?usp=sharing)
 
 
 
