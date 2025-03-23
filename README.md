@@ -7,7 +7,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka_public/OnaliyVinukiy)
 
-- 🌱 I’m currently learning **MEARN & Artificial Intelligence**
+- 🌱 I’m currently learning **DevOps & Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://medium.com/@onaliy](https://medium.com/@onaliy)
 
