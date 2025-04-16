@@ -30,10 +30,17 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
  </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 
-
-![OnaliyVinukiy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
  ![OnaliyVinukiy's Stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 
