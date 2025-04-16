@@ -33,8 +33,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=OnaliyVinukiy&theme=highcontrast&hide_border=true&count_private=true)
  
-![OnaliyVinukiy's Stats](https://github-readme-stats.vercel.app/api?username=OnaliyVinukiy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
+
 
 
