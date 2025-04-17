@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaliyvinukiy&label=Profile%20views&color=0e75b6&style=flat" alt="onaliyvinukiy" /> </p>
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka_public/OnaliyVinukiy)
-
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy)
 - 🌱 I’m currently learning **DevOps & Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://medium.com/@onaliy](https://medium.com/@onaliy)
