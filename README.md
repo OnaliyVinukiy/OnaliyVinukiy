@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VvNmdkNDhrcnZrMzRmdHh2MWUyMnlxeXl2YTBuY3BhMmJ3eHlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaliyvinukiy&label=Profile%20views&color=0e75b6&style=flat" alt="onaliyvinukiy" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka_public/OnaliyVinukiy)
 - 🌱 I’m currently learning **DevOps & Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://medium.com/@onaliy](https://medium.com/@onaliy)
