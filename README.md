@@ -36,7 +36,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnaliyVinukiy&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=OnaliyVinukiy&theme=dark&hide_border=false" alt="GitHub Streak">
     </td>
   </tr>
 </table>
