@@ -8,10 +8,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy)
 
-- 📝 I regularly write articles on [https://medium.com/@onaliy](https://medium.com/@onaliy)
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 <br/>
 
