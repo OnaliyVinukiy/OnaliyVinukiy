@@ -7,16 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaliyvinukiy&label=Profile%20views&color=0e75b6&style=flat" alt="onaliyvinukiy" /> </p>
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy.svg)](https://user-badge.committers.top/sri_lanka/OnaliyVinukiy)
-- 🌱 I’m currently learning **DevOps & Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://medium.com/@onaliy](https://medium.com/@onaliy)
-
-- 💬 Ask me about **UI/UX Designing and Full Stack Development**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Oz0CwS1bybIuhvjBfS2y0lzUflH0oImC/view?usp=sharing)
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
